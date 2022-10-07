@@ -1,0 +1,1 @@
+cmd_/home/sam/Documents/linux-kernel-module-lessons/develop/kernel/hello-1/Module.symvers := sed 's/\.ko$$/\.o/' /home/sam/Documents/linux-kernel-module-lessons/develop/kernel/hello-1/modules.order | scripts/mod/modpost -m -a  -o /home/sam/Documents/linux-kernel-module-lessons/develop/kernel/hello-1/Module.symvers -e -i Module.symvers   -T -

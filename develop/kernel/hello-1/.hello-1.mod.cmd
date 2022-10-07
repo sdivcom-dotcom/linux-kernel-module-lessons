@@ -1,0 +1,1 @@
+cmd_/home/sam/Documents/linux-kernel-module-lessons/develop/kernel/hello-1/hello-1.mod := { echo  /home/sam/Documents/linux-kernel-module-lessons/develop/kernel/hello-1/hello-1.o;  echo; } > /home/sam/Documents/linux-kernel-module-lessons/develop/kernel/hello-1/hello-1.mod
